@@ -16,6 +16,47 @@ Mathematically guaranteed most efficient mixing. Discovered by brute-force simul
 | C | 291.00 | 17 | 274.00 | _2025 April 07_ | _0.3.3f15_ | HS I |
 | C | 291.00 | 17 | 274.00 | _2025 April 07_ | _0.3.3f15_ | I HS |
 
+| Base | Return | Ingedients Cost | Revenue | Date | Version | Recipe | Effects |
+| ---- | ------ | --------------- | ------- | ---- | ------- | ------ | ------- |
+| M | 138.60 | 13 | 125.60 | _2025 April 08_ | _0.3.3f15_ | HS V | LF TT |
+| M | 138.60 | 13 | 125.60 | _2025 April 08_ | _0.3.3f15_ | V HS | LF TT |
+| M | 134.40 | 9 | 125.40 | _2025 April 08_ | _0.3.3f15_ | Cu MB | Cy Fog |
+| M | 141.40 | 18 | 123.40 | _2025 April 08_ | _0.3.3f15_ | A HS | El LF |
+| M | 135.80 | 13 | 122.80 | _2025 April 08_ | _0.3.3f15_ | G Bat | AG BE |
+| M | 133.00 | 13 | 120.00 | _2025 April 08_ | _0.3.3f15_ | A V | TP TT |
+| M | 133.00 | 13 | 120.00 | _2025 April 08_ | _0.3.3f15_ | V A | TP TT |
+
+| Base | Return | Ingedients Cost | Revenue | Date | Version | Recipe | Effects |
+| ---- | ------ | --------------- | ------- | ---- | ------- | ------ | ------- |
+| GP | 95.92 | 9 | 86.92 | _2025 April 08_ | _0.3.3f15_ | Cu MB | Cy Fog Se |
+| GP | 98.56 | 13 | 85.56 | _2025 April 08_ | _0.3.3f15_ | HS V | LF Se TT |
+| GP | 98.56 | 13 | 85.56 | _2025 April 08_ | _0.3.3f15_ | V HS | LF Se TT |
+| GP | 96.80 | 13 | 83.80 | _2025 April 08_ | _0.3.3f15_ | G Bat | AG BE Se |
+| GP | 92.40 | 9 | 83.40 | _2025 April 08_ | _0.3.3f15_ | ED P | AG A Sn |
+| GP | 92.40 | 10 | 82.40 | _2025 April 08_ | _0.3.3f15_ | Cu Bat | BE Se TP |
+
+| Base | Return | Ingedients Cost | Revenue | Date | Version | Recipe | Effects |
+| ---- | ------ | --------------- | ------- | ---- | ------- | ------ | ------- |
+| GC | 102.34 | 11 | 91.34 | _2025 April 08_ | _0.3.3f15_ | MB V | Cy Fog TT |
+| GC | 102.34 | 11 | 91.34 | _2025 April 08_ | _0.3.3f15_ | V MB | Cy Fog TT |
+| GC | 102.34 | 13 | 89.34 | _2025 April 08_ | _0.3.3f15_ | G Bat | AG BE TP |
+| GC | 104.92 | 16 | 88.92 | _2025 April 08_ | _0.3.3f15_ | HS MB | Cy Fog LF |
+| GC | 104.92 | 16 | 88.92 | _2025 April 08_ | _0.3.3f15_ | MB HS | Cy Fog LF |
+| GC | 104.06 | 17 | 87.06 | _2025 April 08_ | _0.3.3f15_ | Bat HS | BE El LF |
+| GC | 98.90 | 12 | 86.90 | _2025 April 08_ | _0.3.3f15_ | Bat V | BE TP TT |
+| GC | 98.90 | 12 | 86.90 | _2025 April 08_ | _0.3.3f15_ | V Bat | BE TP TT |
+
+| Base | Return | Ingedients Cost | Revenue | Date | Version | Recipe | Effects |
+| ---- | ------ | --------------- | ------- | ---- | ------- | ------ | ------- |
+| OK | 91.20 | 9 | 82.20 | _2025 April 08_ | _0.3.3f15_ | Cu MB | Cy Fog Gl |
+| OK | 87.40 | 8 | 79.40 | _2025 April 08_ | _0.3.3f15_ | MW V | AG B TT |
+| OK | 87.40 | 8 | 79.40 | _2025 April 08_ | _0.3.3f15_ | V MW | AG B TT |
+| OK | 85.88 | 9 | 76.88 | _2025 April 08_ | _0.3.3f15_ | MB Cu | Cy En Gl |
+| OK | 89.68 | 13 | 76.68 | _2025 April 08_ | _0.3.3f15_ | HS MW | AG B LF |
+| OK | 87.40 | 11 | 76.40 | _2025 April 08_ | _0.3.3f15_ | MB V | Fog Gl TT |
+| OK | 87.40 | 11 | 76.40 | _2025 April 08_ | _0.3.3f15_ | V MB | Fog Gl TT |
+
+
 ## Three ingredients
 
 ### By revenue
@@ -217,22 +258,22 @@ Mathematically guaranteed most efficient mixing. Discovered by brute-force simul
 
 | Base | Return | Ingedients Cost | Revenue | Date | Version | Recipe | Effects |
 | ---- | ------ | --------------- | ------- | ---- | ------- | ------ | ------- |
-| GP | 231.44 | 48 | 183.44 | _2025 April 08_ | _0.3.3f15_ | D A HS Cu V MB I MO | AG Cy El Gl J LF Sl TP TT
-| GP | 224.40 | 41 | 183.40 | _2025 April 08_ | _0.3.3f15_ | ED Ch Ban Cu HS MB V MW | AG B Cy El Fog Gl LF Sp TT
-| GP | 224.40 | 41 | 183.40 | _2025 April 08_ | _0.3.3f15_ | ED Ch Ban Cu HS MW V MB | AG B Cy El Fog Gl LF Sp TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB I MO V | AG Cy El J LF Se Sl TP TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB I V MO | AG Cy El J LF Se Sl TP TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB V I MO | AG Cy El J LF Se Sl TP TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu V MB I MO | AG Cy El J LF Se Sl TP TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS V Cu MB I MO | AG Cy El J LF Se Sl TP TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban V HS Cu MB I MO | AG Cy El J LF Se Sl TP TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu V Ban HS Cu MB I MO | AG Cy El J LF Se Sl TP TT
-| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | V Cu Ban HS Cu MB I MO | AG Cy El J LF Se Sl TP TT
-| GP | 223.52 | 42 | 181.52 | _2025 April 08_ | _0.3.3f15_ | P G Ban Cu HS MB I MO | AG Cy El Gl J LF Se Sl TT
-| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G A HS Cu V MB I MO | AG Cy El Gl J LF Sl TP TT
-| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu A HS V MB I MO | AG Cy El Gl J LF Sl TP TT
-| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu A V HS MB I MO | AG Cy El Gl J LF Sl TP TT
-| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu V A HS MB I MO | AG Cy El Gl J LF Sl TP TT
+| GP | 231.44 | 48 | 183.44 | _2025 April 08_ | _0.3.3f15_ | D A HS Cu V MB I MO | AG Cy El Gl J LF Sl TP TT |
+| GP | 224.40 | 41 | 183.40 | _2025 April 08_ | _0.3.3f15_ | ED Ch Ban Cu HS MB V MW | AG B Cy El Fog Gl LF Sp TT |
+| GP | 224.40 | 41 | 183.40 | _2025 April 08_ | _0.3.3f15_ | ED Ch Ban Cu HS MW V MB | AG B Cy El Fog Gl LF Sp TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB I MO V | AG Cy El J LF Se Sl TP TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB I V MO | AG Cy El J LF Se Sl TP TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB V I MO | AG Cy El J LF Se Sl TP TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu V MB I MO | AG Cy El J LF Se Sl TP TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS V Cu MB I MO | AG Cy El J LF Se Sl TP TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban V HS Cu MB I MO | AG Cy El J LF Se Sl TP TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu V Ban HS Cu MB I MO | AG Cy El J LF Se Sl TP TT |
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | V Cu Ban HS Cu MB I MO | AG Cy El J LF Se Sl TP TT |
+| GP | 223.52 | 42 | 181.52 | _2025 April 08_ | _0.3.3f15_ | P G Ban Cu HS MB I MO | AG Cy El Gl J LF Se Sl TT |
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G A HS Cu V MB I MO | AG Cy El Gl J LF Sl TP TT |
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu A HS V MB I MO | AG Cy El Gl J LF Sl TP TT |
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu A V HS MB I MO | AG Cy El Gl J LF Sl TP TT |
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu V A HS MB I MO | AG Cy El Gl J LF Sl TP TT |
 
 ## Nine ingredients
 
