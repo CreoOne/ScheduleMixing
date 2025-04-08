@@ -215,6 +215,25 @@ Mathematically guaranteed most efficient mixing. Discovered by brute-force simul
 | C | 723.00 | 48 | 675.00 | _2025 April 07_ | _0.3.3f15_ | D A Cu V HS MB I MO |
 | C | 723.00 | 48 | 675.00 | _2025 April 07_ | _0.3.3f15_ | D A HS Cu V MB I MO |
 
+| Base | Return | Ingedients Cost | Revenue | Date | Version | Recipe | Effects |
+| ---- | ------ | --------------- | ------- | ---- | ------- | ------ | ------- |
+| GP | 231.44 | 48 | 183.44 | _2025 April 08_ | _0.3.3f15_ | D A HS Cu V MB I MO | AG Cy El Gl J LF Sl TP TT
+| GP | 224.40 | 41 | 183.40 | _2025 April 08_ | _0.3.3f15_ | ED Ch Ban Cu HS MB V MW | AG B Cy El Fog Gl LF Sp TT
+| GP | 224.40 | 41 | 183.40 | _2025 April 08_ | _0.3.3f15_ | ED Ch Ban Cu HS MW V MB | AG B Cy El Fog Gl LF Sp TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB I MO V | AG Cy El J LF Se Sl TP TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB I V MO | AG Cy El J LF Se Sl TP TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu MB V I MO | AG Cy El J LF Se Sl TP TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS Cu V MB I MO | AG Cy El J LF Se Sl TP TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban HS V Cu MB I MO | AG Cy El J LF Se Sl TP TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu Ban V HS Cu MB I MO | AG Cy El J LF Se Sl TP TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | Cu V Ban HS Cu MB I MO | AG Cy El J LF Se Sl TP TT
+| GP | 221.76 | 40 | 181.76 | _2025 April 08_ | _0.3.3f15_ | V Cu Ban HS Cu MB I MO | AG Cy El J LF Se Sl TP TT
+| GP | 223.52 | 42 | 181.52 | _2025 April 08_ | _0.3.3f15_ | P G Ban Cu HS MB I MO | AG Cy El Gl J LF Se Sl TT
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G A HS Cu V MB I MO | AG Cy El Gl J LF Sl TP TT
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu A HS V MB I MO | AG Cy El Gl J LF Sl TP TT
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu A V HS MB I MO | AG Cy El Gl J LF Sl TP TT
+| GP | 231.44 | 50 | 181.44 | _2025 April 08_ | _0.3.3f15_ | G Cu V A HS MB I MO | AG Cy El Gl J LF Sl TP TT
+
 ## Nine ingredients
 
 ### By revenue
